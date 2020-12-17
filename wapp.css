@@ -1,0 +1,94 @@
+body
+{
+    margin:30px 100px;
+    background-color: green;
+
+}
+.top
+{
+    padding-top:10px;
+    height:70px;
+    max-width:100%%;
+    background-color:black;
+}
+.dp
+{
+    margin-top:2px;
+    margin-left: 20px;
+    height:60px;
+    width: 60px;
+    border-radius:50%;
+    background-image:url("https://i.ibb.co/f9Gd6PG/fri.jpeg");
+    background-size:cover;
+}
+.video
+{
+    margin-left:750px;
+    height:60px;
+    width: 60px;
+    background-image:url("https://i.ibb.co/0CMK3hj/download.png");
+    background-size:cover;
+}
+.phone   
+{
+    margin-left:150px;
+    height:60px;
+    width: 60px;
+    background-image:url("phone.png");
+    background-size:cover;
+}
+.dot  
+{
+    margin-left:150px;
+    height:60px;
+    width: 60px;
+    background-image:url("tdot.jpeg");
+    background-size:cover;
+}
+.middle
+{
+     padding-top:420px;
+    height:150px;
+    width:100%;
+    background-color:blue;
+}
+.next
+{
+    margin-left:250px;
+    height:60px;
+    width:500px;
+    background-color:brown;
+}
+.smil
+{
+
+    height:60px;
+    width:60px;
+    background-image:url("smil.jpeg");
+    background-size:cover;
+}
+.pin
+{
+    margin-left:400px;
+    height:60px;
+    width:60px;
+    background-image:url("pin.png");
+    background-size:cover;
+}
+.mic
+{
+    margin-left:60px;
+    height:60px;
+    width:60px;
+    background-image:url("mic.png");
+    background-size:cover;
+}
+div>input
+{
+    margin-top:10px;
+    margin-left:-380px;
+    height:40px;
+    width:270px;
+    border-radius:20px;
+    background-color:white;
+}
