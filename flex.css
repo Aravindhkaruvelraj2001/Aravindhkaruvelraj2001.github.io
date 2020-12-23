@@ -1,0 +1,99 @@
+#green
+{
+	height:200px;
+	width: 100%;
+	background-color:rgb(176, 235, 203);
+	margin-bottom: 20px;
+}
+#container
+{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+#sub-container
+{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+}
+#yellow
+{
+	height: 400px;
+	width: 400px;
+	background-color: rgb(232, 223, 179);
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+#child-1
+{
+	height: 60px;
+	width: 200px;
+	background-color: white;
+}
+#child-2
+{
+	height: 60px;
+	width: 200px;
+	background-color: white;
+}
+#child-3
+{
+	height: 60px;
+	width: 200px;
+	background-color: white;
+}
+#child-4
+{
+	height: 60px;
+	width: 200px;
+	background-color: white;
+}
+#orange
+{
+	height: 190px;
+	width:400px;
+	background-color:rgb(237, 216, 185);
+}
+#blue
+{
+	height: 190px;
+	width:400px;
+	background-color:#a9d3eb;
+}
+#red
+{
+	height: 400px;
+	width:400px;
+	background-color:#f0aaaa;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+#child-a
+{
+	height: 60px;
+	width: 200px;
+	background-color: white;
+}
+#child-b
+{
+	height: 60px;
+	width: 200px;
+	background-color: white;
+}
+#child-c
+{
+	height: 60px;
+	width: 200px;
+	background-color: white;
+}
+#child-d
+{
+	height: 60px;
+	width: 200px;
+	background-color: white;
+}
