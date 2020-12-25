@@ -28,6 +28,7 @@ input[type=text],input[type=password]
 	outline:none;
 	padding: 20px 30px;
 	border-radius: 30px;
+	color:white;
 	background-color: black;
 	border:3px solid #95edec;
 }
@@ -61,12 +62,11 @@ input[type=submit]:focus
 	}
 	input[type=text]:focus,input[type=password]:focus
 	{
- 	width: 220px;
- 	border:3px solid #7ff083;
+ 	   	width: 220px;
+ 		border:3px solid #7ff083;
 	}
 	input[type=text],input[type=password]
 	{
-		color: white;
 		width: 150px;
 	}
 }
