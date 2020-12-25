@@ -57,10 +57,16 @@ input[type=submit]:focus
 	.box
 	{
 		width: 250px;
+		padding-left: 20px;
 	}
 	input[type=text]:focus,input[type=password]:focus
 	{
  	width: 220px;
  	border:3px solid #7ff083;
+	}
+	input[type=text],input[type=password]
+	{
+		color: white;
+		width: 150px;
 	}
 }
