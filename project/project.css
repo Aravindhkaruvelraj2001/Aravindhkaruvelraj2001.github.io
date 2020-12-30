@@ -144,14 +144,17 @@ h3
 #vcard-logo1
 {
    font-size: 50px;
+   color: #ff0bc9;
 }
 #vcard-logo2
 {
    font-size: 50px;
+   color: #ff0bc9;
 }
 #vcard-logo3
 {
    font-size: 50px;
+   color: #ff0bc9;
 }
 #price-heading
 {
@@ -272,7 +275,7 @@ footer
     font-size: 20px;
     background-color: #b5abab;
 }
-@media screen and (max-width:500px)
+@media screen and (max-width:600px)
 {
     #services_container
     {
