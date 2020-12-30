@@ -8,9 +8,9 @@
 #image
 {
     background-image: url('hero.jpg');
-    background-size: 100% 600px;
+    background-size: 100% 700px;
     width: 100%;
-    height: 600px;
+    height: 700px;
     margin-bottom: 20px;
 }
 #letters
@@ -192,19 +192,19 @@ h3
 #price-container
 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evently;
 }
 #price-column1
 {
-    width: 33%;
+    width: 33.3%;
 }
 #price-column2
 {
-    width: 33%;
+    width: 33.3%;
 }
 #price-column3
 {
-    width: 33%;
+    width: 33.3%;
 }
 .icon
 {
@@ -310,13 +310,13 @@ footer
     {
     display: flex;
     flex-flow: column;
-    align-items: center;
+    justify-content: center;
     }
     #feedback-container
     {
     background-color: #1bedf5;
     width: 100%;
-    height: 650px;
+    height: 600px;
 
     }
     #feedback-sub-container
