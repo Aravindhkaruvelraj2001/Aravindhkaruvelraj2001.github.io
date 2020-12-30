@@ -59,19 +59,11 @@ h3
 #about-container
 {
     display: flex;
-    margin-bottom:20px;
-    height: 400px;
-}
-#para-container
-{
-     overflow: scroll;
-     height: 75%;
-     width: 100%;
+    margin-bottom:50px;
 }
 #para
 {
     width: 50%;
-    height:75%;
     font-size: 25px;
 
 }
@@ -192,7 +184,7 @@ h3
 #price-container
 {
     display: flex;
-    margin-left: 50px;
+    margin-left: 75px;
 }
 #price-column1
 {
@@ -221,7 +213,7 @@ h3
 {
     flex-wrap: wrap;
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 10px;
     padding: 40px;
     width: 150px;
