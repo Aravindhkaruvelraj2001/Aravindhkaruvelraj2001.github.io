@@ -31,7 +31,7 @@ body
 #inputBtn
 {
 	width: 70px;
-	height: 55;
+	height: 55px;
 	font-size: 1.5rem;
 	outline: none;
 	cursor: pointer;
@@ -45,7 +45,7 @@ body
 }
 
 
-.task-views
+.task-view
 {
 	display: flex;
 	justify-content: space-between;
