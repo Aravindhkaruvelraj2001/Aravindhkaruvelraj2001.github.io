@@ -124,3 +124,12 @@ body
 {
 	--rotation:330deg;
 }
+
+@media screen and (max-width: 600px)
+{
+	#clock
+	{
+		width: 600px;
+		height: 600px;
+	}
+}
