@@ -22,19 +22,22 @@ button.addEventListener('click',()=>{
 
 	.then(function response(response)
 	{
-		
+	
 		return response.json()
 	})
 
 	.then(data=>{
-
-	
-		result1.textContent=data.main.temp+' F ('+data.weather[0].description+')'
+		
+		//convert temperature kelvin to celcius and temperature variable
+		temperature=data.main.temp-273.15
+		
+		//print h3 tag
+		result1.innerHTML=temperature+'<sup>.</sup> C ('+data.weather[0].description+')'
 		result2.textContent=data.name
 	})
 
 	.catch(err=>{
-		alert("wrong city Name! or check your intrnet connection...")
+		alert("wrong city Name! or check your internet connection...")
 		
 	})
 
