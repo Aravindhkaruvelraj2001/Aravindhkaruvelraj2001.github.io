@@ -32,7 +32,7 @@ button.addEventListener('click',()=>{
 		temperature=data.main.temp-273.15
 		
 		//print h3 tag
-		result1.innerHTML=temperature+'<sup>.</sup> C ('+data.weather[0].description+')'
+		result1.innerHTML=temperature+' <sup>.</sup>C ('+data.weather[0].description+')'
 		result2.textContent=data.name
 	})
 
