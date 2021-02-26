@@ -1,0 +1,56 @@
+
+p
+{
+    color:Black;
+    text-decoration:bold;
+    text-align:center;
+    font-size:150%;
+    font-family: "Courier New", Courier, monospace;
+}
+
+
+h5{
+    color:lightgreen;
+}
+#intro{
+    text-indent:50px;
+   
+    color:black;
+    font-size:120%;
+    font-family: Florence, cursive;
+    
+    
+    background-color: lightgrey;
+    width: 280px;
+    padding: 25px;
+    margin: 00px;
+    
+    }
+h1{
+    color:blue;
+    text-align:center;
+    text-decoration:Bold;
+    font-family: Florence, cursive;
+}
+ul{
+    font-family: "Courier New", Courier, monospace;
+    color:black;
+    font-style:bold;
+    font-size:120%;
+    font-family: Florence, cursive;
+}
+#cuisine{
+    text-indent:50px;
+    font-family:Florence, cursive;
+    font-size:120%;
+    
+    background-color: lightgrey;
+    width: 280px;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0);
+    padding: 25px;
+    margin: 00px;
+}
+
+
+
+ 
