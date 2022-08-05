@@ -1,0 +1,14 @@
+
+h1{
+    text-align: center;
+    padding: 2rem;
+}
+
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content:center;
+}

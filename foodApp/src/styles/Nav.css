@@ -1,0 +1,18 @@
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 10vh;
+  background-color: #494f52;
+  color: white;
+  position: sticky;
+  top: 0;
+}
+.navLinks{
+  width:50%;
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
